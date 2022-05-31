@@ -26,4 +26,6 @@ npm install --save request-promise
 ```
 
 # Node.js上で、javascriptコード・Pythonコード間の処理をするためのpython-shell
+```bash
 npm install --save python-shell
+```
