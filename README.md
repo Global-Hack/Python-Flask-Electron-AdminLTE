@@ -35,5 +35,6 @@ npm install --save python-shell
 ```bash
 git clone https://github.com/Global-Hack/Pythone-Flask-Electron-AdminLTE.git
 ```
+Python-Flask-Electron-AdminLTEディレクトリの中身だけを使いますので、当該ディレクトリから出してお使いください。
 
 あとは煮るなり焼くなり好きにしてください！
