@@ -45,4 +45,9 @@ git fetch --all --prune
 git pull origin master
 ```
 
+# 動作の確認方法
+```bash
+electron .
+```
+
 あとは煮るなり焼くなり好きにしてください！
