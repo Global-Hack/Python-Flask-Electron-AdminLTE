@@ -17,7 +17,7 @@ git pull
 ## 3.Electronを入れる
 仮想環境内のディレクトリにて下記コマンドを実行
 ```bash
-npm install --location=global electron
+npm install electron
 ```
 
 ## 4.PythonのフレームワークFlaskを入れる
