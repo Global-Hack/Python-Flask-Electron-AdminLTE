@@ -6,12 +6,12 @@ venv仮想環境構築がわからない方は下記を参考にしてくださ�
 参考：[【簡単Python】venvでサクッと仮想環境を用意してみる【Mac開発環境構築】](https://global-hack.com/blog/archives/93)
 
 ## 2.リポジトリをローカルに
-中身だけが必要なので下記のコマンドになりますが、「master」の部分は「main」の方などいらっしゃると思いますので、適宜書き換えてください。
+中身だけが必要なので下記のコマンドになります。
 ```bash
 git init
 git remote add origin https://github.com/Global-Hack/Python-Flask-Electron-AdminLTE.git
 git fetch --all --prune
-git pull origin master
+git pull
 ```
 
 ## 3.Electronを入れる
