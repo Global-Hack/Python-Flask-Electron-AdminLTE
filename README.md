@@ -48,6 +48,7 @@ electron .
 ```
 ## 9.もう少し細かい説明が必要な方
 下記リンクを参考に実践してみてください！
+
 参考：[超絶簡単！Python+Flask+Electron+AdminLTEで管理画面を構築してみる！](https://global-hack.com/blog/archives/99)
 
 あとは煮るなり焼くなり好きにしてください！
