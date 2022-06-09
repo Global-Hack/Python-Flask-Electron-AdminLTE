@@ -34,14 +34,14 @@ npm install --save python-shell
 
 ## 7.リポジトリをローカルにclone
 ```bash
-git clone https://github.com/Global-Hack/Pythone-Flask-Electron-AdminLTE.git
+git clone https://github.com/Global-Hack/Python-Flask-Electron-AdminLTE.git
 ```
 Python-Flask-Electron-AdminLTEディレクトリの中身だけを使いますので、当該ディレクトリから出してお使いください。
 
 中身だけcloneする方法もありますのでご参考までに。
 ```bash
 git init
-git remote add origin https://github.com/Global-Hack/Pythone-Flask-Electron-AdminLTE.git
+git remote add origin https://github.com/Global-Hack/Python-Flask-Electron-AdminLTE.git
 git fetch --all --prune
 git pull origin master
 ```
